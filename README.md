@@ -1,24 +1,49 @@
-🗣️ Text To Speech Mini Project
-       This is a simple Text to Speech web app built using HTML, CSS, and JavaScript. It converts the text entered by the user into spoken words using the browser's SpeechSynthesis API.
+# 🗣️ Text To Speech – Mini Project  
 
-🚀 Features:
-       🔊 Converts text to speech
-       🎨 Stylish background using SVG-based background image  
-       💬 Adjustable speech parameters (rate, pitch, volume)
-       📱 Fully responsive and mobile-friendly
+A simple **Text To Speech** web application built using **HTML, CSS, and JavaScript**.  
 
-🛠️ Technologies Used
-        -HTML5
-        -CSS3
-        -JavaScript (Web Speech API - SpeechSynthesisUtterance)
+This project converts the text entered by the user into spoken words using the browser's **Web Speech API (SpeechSynthesis API)**.
 
-✍️ How It Works
-       The user types text into the textarea.
-       When the "Text To Speech" button is clicked, the browser reads the text aloud using SpeechSynthesisUtterance.
+---
 
+## 🚀 Features  
 
-🧠 What I Learned
-       DOM manipulation in JavaScript
-       Using the Web Speech API
-       Applying SVG as a background image in CSS
-       Building a responsive UI   
+- 🔊 Converts text to speech  
+- 🎨 Stylish background using SVG-based background image  
+- 💬 Adjustable speech parameters (Rate, Pitch, Volume)  
+- 📱 Fully responsive and mobile-friendly design  
+
+---
+
+## 🛠️ Technologies Used  
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Web Speech API (`SpeechSynthesisUtterance`)  
+
+---
+
+## ✍️ How It Works  
+
+1. The user types text into the textarea.  
+2. When the **"Text To Speech"** button is clicked,  
+3. The browser reads the text aloud using the `SpeechSynthesisUtterance` object from the Web Speech API.  
+
+---
+
+## 🧠 What I Learned  
+
+- DOM manipulation using JavaScript  
+- Using the Web Speech API  
+- Working with `SpeechSynthesisUtterance`  
+- Applying SVG as a background image in CSS  
+- Building a responsive user interface  
+
+---
+
+## 👩‍💻 Author  
+
+**Sadhana Shree**  
+Mini Project – Frontend Development
+## 📂 Project Structure  
