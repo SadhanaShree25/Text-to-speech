@@ -46,4 +46,4 @@ This project converts the text entered by the user into spoken words using the b
 
 **Sadhana Shree**  
 Mini Project – Frontend Development
-## 📂 Project Structure  
+
